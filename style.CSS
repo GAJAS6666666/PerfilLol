@@ -1,0 +1,66 @@
+.boduy
+.profilePic{}
+.profilePic img{
+    position: relative;
+    left: 38%;
+    border-radius: 50%;
+    width: 30%;
+
+}
+.profilePic__1{}
+.profilePic__1 img{
+    position: relative;
+    left: 40%;
+    top:-20%;
+    border-radius: 50%;
+}
+.profilePic__2{}
+.profilePic__2 img{
+    position: relative;
+    top:50%;
+    left: 20%;
+    border-radius: 50%;
+
+}
+.profilePic__3{}
+.profilePic__3 img{
+    border-radius: 50%;
+    position: relative;
+    left: 60%;
+    top:0%;
+}
+.video{}
+.video video{
+    position: fixed;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    filter: blur(5px);
+    
+}
+.rankeada{
+    background-color: rgba(25, 25, 81, 0.33);
+
+}
+.rankeada__EloSoloDuo{}
+
+.perfilJogador{
+    background-color: rgba(25, 25, 81, 0.33);
+}
+.perfilJogador__nick{
+    padding-left: 26%;
+}
+.container{
+
+}
+.pool{
+    background-color: rgba(25, 25, 81, 0.33);
+}
+
+
+
+
+   
+
